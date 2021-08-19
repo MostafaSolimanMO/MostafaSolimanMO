@@ -22,9 +22,9 @@
 <p align="center" >
   <img alt="visitors" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/mostafa-mo-soliman/" />
   <img alt="ViewCount" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MmoSoliman" />
-   <img alt="ViewCount" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.mostafamoma.moma@gmail.com" />
+   <img alt="ViewCount" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mostafamoma.moma@gmail.com" />
 </p>
 <p align="center" >
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=MostafaSolimanMO.views.svg" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MostafaSolimanMO/onimur.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=MostafaSolimanMO.visitors.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MostafaSolimanMO/views.svg" />
 </p>
