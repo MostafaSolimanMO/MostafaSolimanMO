@@ -25,6 +25,6 @@
    <img alt="ViewCount" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mostafamoma.moma@gmail.com" />
 </p>
 <p align="center" >
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=MostafaSolimanMO.visitors.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=MostafaSolimanMO.visitor.svg" />
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MostafaSolimanMO/views.svg" />
 </p>
