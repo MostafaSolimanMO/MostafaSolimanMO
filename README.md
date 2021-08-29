@@ -26,5 +26,4 @@
 </p>
 <p align="center" >
   <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=MostafaSolimanMO.visitor.svg" />
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/MostafaSolimanMO/views.svg" />
 </p>
