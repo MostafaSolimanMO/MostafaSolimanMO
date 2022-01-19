@@ -4,7 +4,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working at [Turbo EG]()
+- 👨🏽‍💻 I’m currently working at [Turbo EG](https://turbo-eg.com/)
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter) 
 - 💬 Ask me about mobile development, I am happy to help 🤝
 - 📫 You can reach me via LinkedIn, Twitter or Mail
