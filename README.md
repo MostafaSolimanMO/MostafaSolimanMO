@@ -5,7 +5,7 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working at [Turbo EG](https://turbo-eg.com)
-- 🛠 Author of [Once](https://pub.dev/packages/once)
+- 🛠 Author of [once](https://pub.dev/packages/once) and [flutter_once](https://pub.dev/packages/flutter_once)
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter) 
 - 💬 Ask me about mobile development, I am happy to help 🤝
 - 📫 You can reach me via LinkedIn, Twitter or Mail
