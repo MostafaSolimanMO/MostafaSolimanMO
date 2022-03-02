@@ -1,4 +1,4 @@
-## Hi there, I'm a Software Engineer 👨‍💻
+## Hi there,
 
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-3+yrs-red) ![](https://img.shields.io/badge/OSC-Member-green)
 
