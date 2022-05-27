@@ -17,8 +17,8 @@
 - [Turbo (Client)](https://apps.apple.com/eg/app/turbo-eg/id1600431565) - Turbo Client app.
 - [Turbo (Captain)](https://apps.apple.com/eg/app/turbo-eg-captain/id1600434013) - Turbo Captain app.
 - [AppBear](https://appbear.io/) - Convert your WordPress site into a Native Mobile App.
-- [DasShop](https://dashop.app/en) - Your online store is now just a few clicks away. All the tools you need to build a successful e-store at the lowest cost.
-- [Discy /Ask Me Mobile Application](https://2code.info/mobile-apps/) -The first mobile app solution designed for your Discy/Ask Me theme.
+- [DaShop](https://dashop.app/en) - Your online store is now just a few clicks away. All the tools you need to build a successful e-store at the lowest cost.
+- [Discy /Ask Me](https://2code.info/mobile-apps/) -The first mobile app solution designed for your Discy/Ask Me theme.
     
 <img width="55%" alt="Mostafa's github stats" src="https://github-readme-stats.vercel.app/api?username=MostafaSolimanMO&show_icons=true&hide_border=true&title_color=000000" />
 
