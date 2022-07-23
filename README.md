@@ -4,17 +4,17 @@
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working at [Turbo EG](https://turbo-eg.com)
+- 👨🏽‍💻 I’m currently working [@Turbo EG](https://turbo-eg.com)
 - 🛠 Author of [once](https://pub.dev/packages/once)
 - 💬 Ask me about mobile development, I am happy to help
-- 📫 You can reach me via LinkedIn, or Mail
+- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/mostafa-mo-soliman/) or [Mail](mailto:mostafamoma.moma@gmail.com)
 
 ### 🚀 Some of my projects
  
-- [Againer](https://againer.app) - The 1st platform in Saudi that connects the creative community with highly productive places.
-- [Baredex](https://baredex.com) - Domestic and international shipping services to over 550 Destinations.
 - [Turbo (Client)](https://apps.apple.com/eg/app/turbo-eg/id1600431565) - Turbo Client app.
 - [Turbo (Captain)](https://apps.apple.com/eg/app/turbo-eg-captain/id1600434013) - Turbo Captain app.
+- [Againer](https://againer.app) - The 1st platform in Saudi that connects the creative community with highly productive places.
+- [Baredex](https://baredex.com) - Domestic and international shipping services to over 550 Destinations.
 - [AppBear](https://appbear.io/) - Convert your WordPress site into a Native Mobile App.
 - [DaShop](https://dashop.app/en) - Your online store is now just a few clicks away. All the tools you need to build a successful e-store at the lowest cost.
 - [Discy /Ask Me](https://2code.info/mobile-apps/) - The first mobile app solution designed for your Discy/Ask Me theme.
