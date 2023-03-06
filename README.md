@@ -2,7 +2,6 @@
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏼‍💻 Working [@Turbo EG](https://turbo-eg.com)
 - 🔧 Author of [once](https://pub.dev/packages/once)
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/mostafa-mo-soliman/) or [Mail](mailto:mostafamoma.moma@gmail.com)
 
