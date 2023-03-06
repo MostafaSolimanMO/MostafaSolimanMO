@@ -1,13 +1,11 @@
-## Hi there,
-
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Java-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-3+yrs-red) ![](https://img.shields.io/badge/DSC-Creator-green)
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working [@Turbo EG](https://turbo-eg.com)
+- 👨🏽‍💻 Working [@Turbo EG](https://turbo-eg.com)
 - 🛠 Author of [once](https://pub.dev/packages/once)
 - 💬 Ask me about mobile development, I am happy to help
-- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/mostafa-mo-soliman/) or [Mail](mailto:mostafamoma.moma@gmail.com)
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/mostafa-mo-soliman/) or [Mail](mailto:mostafamoma.moma@gmail.com)
 
 ### 🚀 Some of my projects
  
