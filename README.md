@@ -3,7 +3,6 @@
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 💳 Building a world-class fintech app at [Swypex](https://www.swypex.com) <img width="1.2%" alt="Swypex Logo" src="https://avatars.githubusercontent.com/u/101147763?s=200&v=4" />
-
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/mostafa-mo-soliman/) or [Mail](mailto:mostafamoma.moma@gmail.com)
 
 #### Most proud projects 🚀
