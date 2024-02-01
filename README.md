@@ -6,7 +6,8 @@
 - 📫 Reach me via [LinkedIn](https://linkedin.com/in/mostafa-mo-soliman/) or [Mail](mailto:mostafamoma.moma@gmail.com)
 
 #### Most proud projects 🚀
- 
+
+- [Swypex](https://apps.apple.com/app/swypex/id6449683189) - Better business banking
 - [Turbo EG Client](https://apps.apple.com/eg/app/turbo-eg/id1600431565) - Local shipping service app that allowing customers to easily request shipments, track parcel status in real time, and receive timely notifications with realtime chatting system.
 - [Turbo EG Captain](https://apps.apple.com/eg/app/turbo-eg-captain/id1600434013) - Enabling them to efficiently carry out tasks, update parcel status in real time, and receive instant notifications regarding any parcel updates.
 - [Againer](https://apps.apple.com/app/againer-cafes-digital-wallet/id1545742668?platform=iphone) - The 1st platform in Saudi that connects the creative community with highly productive places.
