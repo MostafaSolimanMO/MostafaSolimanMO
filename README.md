@@ -11,7 +11,6 @@
 - [Baridx](https://apps.apple.com/app/baredex/id1551212079?platform=iphone) - Domestic and international shipping services to over 550 Destinations.
 - [Turbo EG Merchants](https://apps.apple.com/eg/app/turbo-eg/id1600431565) - Local shipping service app that allows customers to easily request shipments, track parcel status in real-time, and receive timely notifications with a real-time chatting system.
 - [Turbo EG Captain](https://apps.apple.com/eg/app/turbo-eg-captain/id1600434013) - Enabling them to carry out tasks efficiently, update parcel status in real-time, and receive instant notifications regarding any parcel updates.
-- [Againer](https://apps.apple.com/app/againer-cafes-digital-wallet/id1545742668?platform=iphone) - The 1st platform in Saudi that connects the creative community with highly productive places.
 - [PAS-Ebill](https://play.google.com/store/apps/details?id=sa.wsmco.invoice) - It facilitates managing operations in accounting, sales, purchases and inventory.
 - [AppBear](https://appbear.io/) - Convert your WordPress site into a mobile app.
 - [Discy /Ask Me](https://2code.info/mobile-apps/) - The first mobile app solution designed for your Discy/Ask Me theme.
