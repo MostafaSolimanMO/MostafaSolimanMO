@@ -14,5 +14,4 @@
 - [Againer](https://apps.apple.com/app/againer-cafes-digital-wallet/id1545742668?platform=iphone) - The 1st platform in Saudi that connects the creative community with highly productive places.
 - [PAS-Ebill](https://play.google.com/store/apps/details?id=sa.wsmco.invoice) - It facilitates managing operations in accounting, sales, purchases and inventory.
 - [AppBear](https://appbear.io/) - Convert your WordPress site into a mobile app.
-- [DaShop](https://dashop.app/en) - Your online store is now just a few clicks away—all the tools you need to build a successful e-store at the lowest cost.
 - [Discy /Ask Me](https://2code.info/mobile-apps/) - The first mobile app solution designed for your Discy/Ask Me theme.
